@@ -6,6 +6,7 @@
             "email": "lshufa@126.com"
         }
     ],
+	"minimum-stability":"dev",
 	 "autoload": {
         "psr-4": {
             "tp51\\wechat\\": "src\\tp51\\wechat"
