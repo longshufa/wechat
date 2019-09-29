@@ -1,0 +1,15 @@
+{
+    "name": "lyndon2018/tp51-wechat",
+    "authors": [
+        {
+            "name": "longsf",
+            "email": "lshufa@126.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "tp51\\wechat\\": "src\\tp51\\wechat"
+        }
+    },
+    "require": {}
+}
